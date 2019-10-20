@@ -1,3 +1,2 @@
-# hexo-1020，学习第一天，学会下载hexo，关联GitHub，预览网页
-#下一步还需要学习如何搭建网页，知道配置文件的意义，markdown的使用
-#预留问题，编译环境用哪个软件？
+# hexo-1021 第二天，如何搭建网页，知道配置文件的意义，编译器atom
+#预留问题，markdown的使用http://silencejql.coding.me/Hexo%20Markdown.html
