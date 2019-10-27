@@ -1,2 +1,2 @@
-# hexo-1021 第二天，如何搭建网页，知道配置文件的意义，编译器atom
-#预留问题，markdown的使用http://silencejql.coding.me/Hexo%20Markdown.html
+# hexo-1027 第三天，学习了markdown语法，初步了解怎么攥写文章
+#预留问题，menu的连接不对，以及进去的页面格式不知道。多搜一些主题

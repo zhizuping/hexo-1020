@@ -1,4 +1,4 @@
-# hexo-1020
+﻿# hexo-1020
 通过上传最初的hexo代码，发现有的仓未上传到github。所以hexo-1020first.zip是全部的代码。
 学习各种编程：参考廖雪峰，菜鸟教程
 学习制作网页，hexo是第三方，为搭建网址的框架
@@ -38,12 +38,8 @@ linux命令总结：
    60  git checkout master
    61  git merge origin/yu1020//com
    62  git push -u origin master//同步远端的master
-   
-git上传代码：https://www.cnblogs.com/520lqlst/p/8375976.html
-git下载代码：git clone ssh
-markdown：http://silencejql.coding.me/Hexo%20Markdown.html
-hexo教程：https://www.cnblogs.com/wsmrzx/p/9439284.html
-
+如何新建项目分支？
+在GitHub网址上新建分支，然后git fetch同步一下本地，最后切换其分支即可。
 最初学习的另一种方法
 git init //把这个目录变成Git可以管理的仓库
 git add README.md //文件添加到仓库
@@ -51,6 +47,15 @@ git add . //不但可以跟单一文件，还可以跟通配符，更可以跟�
 git commit -m "readme" //把文件提交到仓库
 git remote add origin git@github.com:zhizuping/hexo.git//关联远程仓库
 git push -u origin master //把本地库的所有内容推送到远程库上
+
+git上传代码：https://www.cnblogs.com/520lqlst/p/8375976.html
+git下载代码：git clone ssh
+
+hexo教程：https://www.cnblogs.com/wsmrzx/p/9439284.html
+markdown：http://silencejql.coding.me/Hexo%20Markdown.html
+https://www.runoob.com/markdown/md-tutorial.html
+
+
 
 
 
