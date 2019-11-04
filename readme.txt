@@ -18,6 +18,7 @@ linux命令总结：
    11  ssh-keygen -t rsa -C "yjpzxc@126.com"
    12  ssh -T git@github.com
    14  hexo s
+         hexo clean
    16  hexo g
    17  hexo d
    25  git clone git@github.com:zhizuping/hexo-1020.git
@@ -52,10 +53,20 @@ git上传代码：https://www.cnblogs.com/520lqlst/p/8375976.html
 git下载代码：git clone ssh
 
 hexo教程：https://www.cnblogs.com/wsmrzx/p/9439284.html
+详细：https://blog.csdn.net/sinat_37781304/article/details/82729029
 markdown：http://silencejql.coding.me/Hexo%20Markdown.html
 https://www.runoob.com/markdown/md-tutorial.html
 
+hexo文件目录：
 
+node_modules: 依赖包
+public：存放生成的页面
+scaffolds：生成文章的一些模板
+source：用来存放你的文章
+themes：主题
+** _config.yml: 博客的配置文件**
 
-
-
+languages: 顾名思义
+layout：布局文件，其实后期想要修改自定义网站上的东西，添加各种各样的信息，主要是在这里修改，其中comment是评论系统，common是常规的布局，最常修改的在这里面，比如修改页面head和footer的内容。
+scripts：js脚本，暂时没什么用
+source：里面放了一些css的样式，以及图片
