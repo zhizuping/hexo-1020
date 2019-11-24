@@ -51,9 +51,11 @@ git push -u origin master //把本地库的所有内容推送到远程库上
 
 git上传代码：https://www.cnblogs.com/520lqlst/p/8375976.html
 git下载代码：git clone ssh
-
+hexo提交搜索引擎（百度+谷歌）https://www.cnblogs.com/tengj/p/5357879.html
 hexo教程：https://www.cnblogs.com/wsmrzx/p/9439284.html
 详细：https://blog.csdn.net/sinat_37781304/article/details/82729029
+官方的next主题介绍https://github.com/theme-next/hexo-theme-next
+从零开始制作 Hexo 主题https://www.cnblogs.com/mmzuo-798/p/10451385.html
 markdown：http://silencejql.coding.me/Hexo%20Markdown.html
 https://www.runoob.com/markdown/md-tutorial.html
 
