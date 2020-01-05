@@ -1,2 +1,3 @@
-# hexo-1124 第5天，更新了next主题，重新设置了一遍，下次学习以下网址
-官方的next主题介绍https://github.com/theme-next/hexo-theme-next
+# hexo-2020-1-5 第6天，好久没学习了。还是看主题代码，学会自定义主题。
+http://theme-next.iissnan.com/getting-started.html
+# 写博客，结合css+JavaScript

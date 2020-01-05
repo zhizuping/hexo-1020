@@ -72,3 +72,5 @@ languages: 顾名思义
 layout：布局文件，其实后期想要修改自定义网站上的东西，添加各种各样的信息，主要是在这里修改，其中comment是评论系统，common是常规的布局，最常修改的在这里面，比如修改页面head和footer的内容。
 scripts：js脚本，暂时没什么用
 source：里面放了一些css的样式，以及图片
+参考网址学习next主题，自定义
+http://theme-next.iissnan.com/getting-started.html
