@@ -92,7 +92,26 @@ path: atom.xml
 limit: 20
 ## Themes: https://hexo.io/themes/
 theme: next
-
+live2d:
+  enable: true
+  scriptFrom: local
+  pluginRootPath: live2dw/
+  pluginJsPath: lib/
+  pluginModelPath: assets/
+  tagMode: false
+  model:
+    use: live2d-widget-model-wanko  #选择哪种模型
+  display: #放置位置和大小
+    position: right
+    width: 150
+    height: 300
+  mobile:
+    show: false #是否在手机端显示
+symbols_count_time:
+  symbols: true #是否统计字数
+  time: true #是否统计阅读时长
+  total_symbols: true #是否统计总字数
+  total_time: true #是否统计总阅读时长
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
