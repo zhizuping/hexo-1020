@@ -22,7 +22,7 @@ linux命令总结：
    16  hexo g
    17  hexo d
    25  git clone git@github.com:zhizuping/hexo-1020.git
-   26  cd hexo-1020/  
+   26  cd hexo-1020/
    39  git add .
    41  git commit -m "first"
    42  git remote add origin git@github.com:zhizuping/hexo-1020.git
@@ -44,7 +44,7 @@ linux命令总结：
 最初学习的另一种方法
 git init //把这个目录变成Git可以管理的仓库
 git add README.md //文件添加到仓库
-git add . //不但可以跟单一文件，还可以跟通配符，更可以跟目录。一个点就把当前目录下所有未追踪的文件全部add了 
+git add . //不但可以跟单一文件，还可以跟通配符，更可以跟目录。一个点就把当前目录下所有未追踪的文件全部add了
 git commit -m "readme" //把文件提交到仓库
 git remote add origin git@github.com:zhizuping/hexo.git//关联远程仓库
 git push -u origin master //把本地库的所有内容推送到远程库上
@@ -74,3 +74,5 @@ scripts：js脚本，暂时没什么用
 source：里面放了一些css的样式，以及图片
 参考网址学习next主题，自定义
 http://theme-next.iissnan.com/getting-started.html
+https://blog.csdn.net/nightmare_dimple/article/details/86661502
+https://www.jianshu.com/p/76ce3729746d
