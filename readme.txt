@@ -77,3 +77,4 @@ http://theme-next.iissnan.com/getting-started.html
 https://blog.csdn.net/nightmare_dimple/article/details/86661502
 https://www.jianshu.com/p/76ce3729746d
 https://github.com/stevenjoezhang/live2d-widget
+7.x版本美化：https://www.cnblogs.com/aoguai/p/11481253.html
