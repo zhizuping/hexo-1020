@@ -43,7 +43,7 @@ themes：主题文件目录
 config.yml：全局配置文件，大多数的设置都在这里
 package.json：应用程序数据，指明hexo的版本等信息，类似于一般软件中的关于按钮
 
-# <font color="#FF3300">Theme目录
+# <font color="#FF3300">Theme目录</font>
 ``` bash
 ├── .github            #git信息
 ├── languages          #多语言
@@ -85,4 +85,4 @@ package.json：应用程序数据，指明hexo的版本等信息，类似于一�
 ```
 
 ***
-[更多参考大佬模板](http://silencejql.coding.me/categories/Hexo/) </font>
+[更多参考大佬模板](http://silencejql.coding.me/categories/Hexo/) 
