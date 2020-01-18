@@ -48,7 +48,7 @@ live2d:
 ```
 #waifu {
 	bottom: -1000px;
-	right: 0;
+	right: 30px;
 	line-height: 0;
 	position: fixed;
 	transform: translateY(3px);
