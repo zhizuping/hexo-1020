@@ -2,8 +2,9 @@
 title: Hello World
 tags: [hello word]
 categories: study
-password: aaa123
-abstract: eeeeee.
+password: abc1234
+abstract: 实践密码
+message: Welcome to my blog, enter password to read.
 ---
 Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
