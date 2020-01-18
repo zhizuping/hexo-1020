@@ -3,9 +3,6 @@ title: HEXO撰写文章
 date: YYYY-MM-DD HH:MM:SS
 tags: [HEXO]
 categories: study
-password: aaa
-abstract: Welcome to my blog, enter password to read.
-message: Welcome to my blog, enter password to read.
 ---
 # 创建文章
 ``` bash
@@ -85,4 +82,4 @@ package.json：应用程序数据，指明hexo的版本等信息，类似于一�
 ```
 
 ***
-[更多参考大佬模板](http://silencejql.coding.me/categories/Hexo/) 
+[更多参考大佬模板](http://silencejql.coding.me/categories/Hexo/)

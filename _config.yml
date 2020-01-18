@@ -118,3 +118,6 @@ deploy:
   type: git
   repo: https://github.com/zhizuping/zhizuping.github.io.git
   branch: master
+# Security
+encrypt:
+    enable: true
