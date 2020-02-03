@@ -3,10 +3,10 @@
 if [ $1 == "master" ]
   then   
   echo "push to master"
+  hexo clean
   git add .
   git commit -m $2
   git push -u origin $1
-  hexo clean
   hexo g
   hexo d  
   else
