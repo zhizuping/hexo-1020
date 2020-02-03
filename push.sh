@@ -15,9 +15,6 @@ if [ $1 == "master" ]
   git checkout $1
   git push -u origin $1
 fi
-# 2020年1月18日20点05分
-看板娘制作，搞了一晚上终于配置好了
----
 
 
 
