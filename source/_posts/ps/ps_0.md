@@ -15,4 +15,4 @@ categories: study
 [通道、调色 选区](https://www.jb51.net/photoshop/570735.html)
 [小松鼠的实例](http://www.psahz.com/pskoutu/20848.html)
 
-另一种快速的方法，[动物毛发](https://jingyan.baidu.com/article/86fae3460eaadb3c49121a35.html)
+另一种快速的方法:[动物毛发](https://jingyan.baidu.com/article/86fae3460eaadb3c49121a35.html)
